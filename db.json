@@ -5,11 +5,11 @@
     { "id": 3, "content": "Nihil debitis esse voluptatum nobis praesentium fugit molestias nesciunt ad assumenda, repudiandae iure ullam, reiciendis consequatur, incidunt laborum quae amet rerum nisi!", "userId": 2 }
   ],
   "comments" : [
-    { "id": 1, "text": "wah keren!", "postId": 1 },
-    { "id": 2, "text": "wah!", "postId": 1 },
-    { "id": 3, "text": "wew", "postId": 1 },
-    { "id": 4, "text": "wew", "postId": 2 },
-    { "id": 5, "text": "halo", "postId": 2 }
+    { "id": 1, "text": "wah keren!", "postId": 1, "userId": 3 },
+    { "id": 2, "text": "wah!", "postId": 1, "userId": 2 },
+    { "id": 3, "text": "wew", "postId": 1, "userId": 3 },
+    { "id": 4, "text": "wew", "postId": 2, "userId": 1 },
+    { "id": 5, "text": "halo", "postId": 2, "userId": 1 }
   ],
   "users": [
     {
