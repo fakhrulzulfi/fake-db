@@ -27,5 +27,79 @@
       "name": "julpe",
       "password": "gapapa"
     }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores dolorum fugiat neque voluptate suscipit. In repellendus inventore fugiat numquam ratione harum nisi ipsa ut sapiente.",
+      "userId": 1,
+      "user": {
+        "id": 1,
+        "name": "zulfi"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "text": "wah keren!",
+          "postId": 1,
+          "userId": 3,
+          "user": {
+            "id": 3,
+            "name": "julpe"
+          }
+        },
+        {
+          "id": 2,
+          "text": "wah!",
+          "postId": 1,
+          "userId": 2,
+          "user": {
+            "id": 2,
+            "name": "fakhrul"
+          }
+        },
+        {
+          "id": 3,
+          "text": "wew",
+          "postId": 1,
+          "userId": 3,
+          "user": {
+            "id": 3,
+            "name": "julpe"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "content": "Post 2",
+      "userId": 2,
+      "user": {
+        "id": 2,
+        "name": "fakhrul"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "text": "mantab!",
+          "postId": 2,
+          "userId": 3,
+          "user": {
+            "id": 3,
+            "name": "julpe"
+          }
+        },
+        {
+          "id": 2,
+          "text": "mantab jiwa!",
+          "postId": 2,
+          "userId": 2,
+          "user": {
+            "id": 2,
+            "name": "fakhrul"
+          }
+        }
+      ]
+    }
   ]
 }
