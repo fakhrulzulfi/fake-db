@@ -100,6 +100,16 @@
           }
         }
       ]
+    },
+    {
+      "id": 3,
+      "content": "Post 3333",
+      "userId": 2,
+      "user": {
+        "id": 2,
+        "name": "fakhrul"
+      },
+      "comments": []
     }
   ]
 }
