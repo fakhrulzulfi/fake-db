@@ -113,45 +113,95 @@
     }
   ],
   "albums" : [
-    { "id": 1, "userId": 1, "url": "https://picsum.photos/id/1015/200/300", "user": {
-      "id": 1,
-      "name": "zulfi"
-    } },
-    { "id": 2, "userId": 2, "url": "https://picsum.photos/id/1020/200/300", "user": {
+    { 
+      "id": 1, 
+      "userId": 1, 
+      "url": "https://picsum.photos/id/1015/200/300", 
+      "user": {
+        "id": 1,
+        "name": "zulfi"
+      }
+    },
+    {
       "id": 2,
-      "name": "fakhrul"
-    } },
-    { "id": 3, "userId": 3, "url": "https://picsum.photos/id/1000/200/300", "user": {
+      "userId": 2,
+      "url": "https://picsum.photos/id/1020/200/300",
+      "user": {
+        "id": 2,
+        "name": "fakhrul"
+      }
+    },
+    {
       "id": 3,
-      "name": "julpe"
-    } },
-    { "id": 4, "userId": 2, "url": "https://picsum.photos/id/1040/200/300", "user": {
-      "id": 2,
-      "name": "fakhrul"
-    } },
-    { "id": 5, "userId": 3, "url": "https://picsum.photos/id/1050/200/300", "user": {
-      "id": 3,
-      "name": "julpe"
-    } },
-    { "id": 6, "userId": 3, "url": "https://picsum.photos/id/1060/200/300", "user": {
-      "id": 3,
-      "name": "julpe"
-    } },
-    { "id": 7, "userId": 1, "url": "https://picsum.photos/id/1070/200/300", "user": {
-      "id": 1,
-      "name": "zulfi"
-    } },
-    { "id": 8, "userId": 3, "url": "https://picsum.photos/id/1080/200/300", "user": {
-      "id": 3,
-      "name": "julpe"
-    } },
-    { "id": 9, "userId": 2, "url": "https://picsum.photos/id/1015/200/300", "user": {
-      "id": 2,
-      "name": "fakhrul"
-    } },
-    { "id": 10, "userId": 2, "url": "https://picsum.photos/id/1018/200/300", "user": {
-      "id": 2,
-      "name": "fakhrul"
-    } },
+      "userId": 3,
+      "url": "https://picsum.photos/id/1000/200/300",
+      "user": {
+        "id": 3,
+        "name": "julpe"
+      }
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "url": "https://picsum.photos/id/1040/200/300",
+      "user": {
+        "id": 2,
+        "name": "fakhrul"
+      }
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "url": "https://picsum.photos/id/1050/200/300",
+      "user": {
+        "id": 3,
+        "name": "julpe"
+      }
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "url": "https://picsum.photos/id/1060/200/300",
+      "user": {
+        "id": 3,
+        "name": "julpe"
+      }
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "url": "https://picsum.photos/id/1070/200/300",
+      "user": {
+        "id": 1,
+        "name": "zulfi"
+      }
+    },
+    {
+      "id": 8,
+      "userId": 3,
+      "url": "https://picsum.photos/id/1080/200/300",
+      "user": {
+        "id": 3,
+        "name": "julpe"
+      }
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "url": "https://picsum.photos/id/1015/200/300",
+      "user": {
+        "id": 2,
+        "name": "fakhrul"
+      }
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "url": "https://picsum.photos/id/1018/200/300",
+      "user": {
+        "id": 2,
+        "name": "fakhrul"
+      }
+    }
   ]
 }
